@@ -10,7 +10,7 @@ The webpage provides a nice image and text-based introduction; however, the real
 
 ![Base_Data_Table](/Base_data_table.png)
 
-There is a lot of raw data to sift through, but the helpful filter options on the left-hand side make it very user friendly. Any or all five can be used at a time to drill down on whatever specific UFO sightings are desired.
+There is a lot of raw data to sift through, but the helpful filter options on the left-hand side make it very user friendly. To operate them, a visitor can simply type into any of the five white input boxes to filter the data by their specific criteria. Any or all five can be used at a time to drill down on whatever specific UFO sightings are desired.
 
 ![Data_table_filtered](/Data_table_filtered.png)
 
